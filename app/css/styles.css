@@ -1,0 +1,8 @@
+.testing {
+  width: 71.42857%; }
+
+.example {
+  display: flex;
+  transition: all 0.75s;
+  user-select: none;
+  background: linear-gradient(to bottom, white, black); }
